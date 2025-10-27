@@ -31,3 +31,7 @@ body {
 .lowercase {
     text-transform: lowercase;
 }
+
+.small-caps {
+    font-variant: small-caps;
+}
