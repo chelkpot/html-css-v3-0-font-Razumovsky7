@@ -1,0 +1,33 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.text-eample {
+    font-style: italic;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: center;
+}
+
+.text-eample:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+.indent {
+    text-indent: 2em;
+}
+
+.no-underline {
+    text-decoration: none;
+}
+.capitalize {
+    text-transform: capitalize;
+}
+.uppercase {
+    text-transform: uppercase;
+}
+
+.lowercase {
+    text-transform: lowercase;
+}
